@@ -4,7 +4,7 @@ IGK10 Là một công cụ cho tất cả các nhu cầu thu thập thông tin c
 # Install and Run
 # Author
   + Dư Quốc Dũng
-    Mail: dungdq01997@gmail.com
-    [Facebook](https://www.facebook.com/dung.diz)
+    Mail: dungdq01997@gmail.com<br />
+    [Facebook](https://www.facebook.com/dung.diz)<br />
   + Phan Thành Trước
 
