@@ -7,7 +7,7 @@ IGK10 is a tool for all basic information gathering needs. It uses the API (Hack
 # Author
   + Dư Quốc Dũng<br />
     Mail: dungdq01997@gmail.com<br />
-  + Phan Thành Trước
+  + Phan Thành Trước<br />
     Mail: 15520949@gm.uit.edu.vn<br />
     [Facebook Fanpage](https://www.facebook.com/TruocPT/?fb_dtsg_ag=Ady8hpoFdZYTe09E6-xwODi-qqvD-KwhNXlFfu4XPzi8XA%3AAdz-taMWD-yspnUPcxhbSAIlyXcI2Jmwn9DqRQJRgN_flg)
 
