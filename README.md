@@ -3,6 +3,6 @@ Công cụ thu thập thông tin cho một trang web (domain hoặc ip address) 
 IGK10 Là một công cụ cho tất cả các nhu cầu thu thập thông tin cơ bản. Nó sử dụng API (HackerTarget API) để thu thập thông tin làm cho danh tính của bạn không bị lộ.
 # Install and Run
 # Author
-  + Dư Quốc Dũng <br />
-  + Phan Thành Trước <br />
+  + Dư Quốc Dũng
+  + Phan Thành Trước
 
