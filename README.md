@@ -3,6 +3,10 @@ Công cụ thu thập thông tin cho một trang web (domain hoặc ip address) 
 IGK10 Là một công cụ cho tất cả các nhu cầu thu thập thông tin cơ bản. Nó sử dụng API (HackerTarget API) để thu thập thông tin làm cho danh tính của bạn không bị lộ<br /><br />
 The tool for crawling a website (domain or ip address) based on [Devploit](https://githacktools.blogspot.com/2018/07/devploit-information-gathering-tool.html) to develop into a tool has more features. IGK10 runs on all operating systems (windows, linux, ...) if these operating systems support running on python 2.x<br />
 IGK10 is a tool for all basic information gathering needs. It uses the API (HackerTarget API) to collect information that makes your identity unexplored
+# Features
+  + Whois Lookup
+  + DNS Lookup
+  + 
 # Install and Run
 # Author
   + Dư Quốc Dũng<br />
