@@ -22,6 +22,11 @@ IGK10 is a tool for all basic information gathering needs. It uses the API (Hack
 # Screenshots
 ![pictures](https://i.imgur.com/hPLNUZi.png)
 # Install and Run
+  sudo apt update && sudo apt install ruby python python-pip<br />
+  git clone https://github.com/dungvanatra/InformationGatheringK10.git<br />
+  cd InformationGatheringK10/<br />
+  pip install requests <br />
+  python igk10.py 
 # Author
   + Dư Quốc Dũng<br />
     Mail: dungdq01997@gmail.com<br />
