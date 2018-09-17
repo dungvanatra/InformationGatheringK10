@@ -6,7 +6,19 @@ IGK10 is a tool for all basic information gathering needs. It uses the API (Hack
 # Features
   + Whois Lookup
   + DNS Lookup
-  + 
+  + Zone Transfer + Cloudflare
+  + Port Scanner
+  + Http Headers
+  + GeoIP Lookup
+  + Page Links
+  + Host Finder
+  + Find Shared DNS
+  + Host DNS Finder
+  + Reserve IP Lookup
+  + Subnet Lookup
+  + Robots.txt
+  + Comments
+  + Meta Tag
 # Install and Run
 # Author
   + Dư Quốc Dũng<br />
