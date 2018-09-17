@@ -19,6 +19,8 @@ IGK10 is a tool for all basic information gathering needs. It uses the API (Hack
   + Robots.txt
   + Comments
   + Meta Tag
+# Screenshots
+
 # Install and Run
 # Author
   + Dư Quốc Dũng<br />
